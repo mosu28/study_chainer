@@ -1,0 +1,5 @@
+*.model
+models/__pycache__
+bitcoin/data/
+**/result/
+**\__pycache__
